@@ -1,6 +1,6 @@
 <h1>Hello, meu nome é Harrison</h1>
 
-<h2>Sou um mero estudante de programação, que sonha em ser o próximo Steve Jobs</h2>
+<h2>Sou um mero engenheiro de software jr, que sonha em ser o próximo Mark Zuckerberg</h2>
 
 <div style="display: inline_block"> 
   <br>
